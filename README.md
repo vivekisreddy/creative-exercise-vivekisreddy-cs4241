@@ -2,7 +2,7 @@
 Glitch: <img width="1800" alt="Screenshot 2025-02-21 at 9 54 29 AM" src="https://github.com/user-attachments/assets/d94a304a-95fb-4ee8-b398-c1d5a28cb30f" />
 https://creative-exercise-vivekisreddy.glitch.me/
 
-Github repo: 
+Github repo: https://github.com/vivekisreddy/creative-exercise-vivekisreddy-cs4241.git
 
 ## Description  
 This project is a **Roommate Chore Management App**, allowing users to assign and track household chores. It features an interactive UI where users can switch between different categories (Cleaning, Kitchen, Trash, Others) and add tasks with details such as task name, assignee, and deadline. The added tasks are displayed under the relevant category.
