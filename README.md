@@ -1,5 +1,6 @@
 # Roommate Chore App  
-Glitch: 
+Glitch: <img width="1800" alt="Screenshot 2025-02-21 at 9 54 29 AM" src="https://github.com/user-attachments/assets/d94a304a-95fb-4ee8-b398-c1d5a28cb30f" />
+https://creative-exercise-vivekisreddy.glitch.me/
 Github repo: 
 
 ## Description  
